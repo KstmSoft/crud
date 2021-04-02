@@ -1,6 +1,6 @@
 # CRUD | Prueba técnica de Epico!
 
-Proyecto de prueba de un servicio CRUD en PHP puro y base de datos MySQL para solicitud de empleo en Epico!.
+Proyecto de prueba de un servicio CRUD realizado en PHP puro y base de datos MySQL para solicitud de empleo en Epico!.
 
 ## Requerimientos
 * [Docker Desktop](https://www.docker.com/products/docker-desktop)
