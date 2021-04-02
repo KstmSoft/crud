@@ -6,9 +6,9 @@ Proyecto test de un servicio CRUD con interfaz gráfica para solicitud de empleo
 * [Docker Desktop](https://www.docker.com/products/docker-desktop)
 
 ## Instrucciones de instalación
-*-Descargar los archivos y descomprimir el .zip
-*-Abrir CMD o línea de comandos dentro del fichero
-*-Teniendo en cuenta que ya tiene instalado docker ingrese el siguiente comando:
+* Descargar los archivos y descomprimir el .zip
+* Abrir CMD o línea de comandos dentro del fichero
+* Teniendo en cuenta que ya tiene instalado docker ingrese el siguiente comando:
 ```bash
 docker-compose up -d
 ```
