@@ -12,7 +12,7 @@ Proyecto test de un servicio CRUD con interfaz gráfica para solicitud de empleo
 ```bash
 docker-compose up -d
 ```
-* Al terminar de crearse el contenedor, espere un minuto mientras se inicializa la base de datos.
+* Al terminar de crearse el contenedor, espere un minuto adicional mientras se inicializa la base de datos.
 
 ## Ejecución
 Una vez instalado abra el siguiente enlace <b>http://localhost/</b>
